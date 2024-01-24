@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>catparking</title>
+  <title>VidoeStar Pro</title>
 </head>
 <body>
   <div class="page">
@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          carparking
+          VideoStar Pro
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -26,7 +26,7 @@
           <li class="media-item">
             <div class="item-content">
               <div class="item-media"><img src=
-              "./img/carparking.png"
+              "./img/videostar.png"
               class="appicon elevation-5 animated zoomIn"></div>
               <div class="item-inner">
                 <div class="item-title-row">
