@@ -31,7 +31,7 @@
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
-                    carparking
+                    Videostar
              </div> <a href="https://t.me/srush_madridi"
                   class=
                   "button button-round button-fill button-raised color-green external">کڕین
@@ -47,13 +47,13 @@
         </ul>
       </div>
       <div class="block-title">
-         Carparking VIP
+         Vidoe star Pro
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>VIPئەکاونتی </pre>
-        <pre>فوڵ زەمان</pre>
-        <pre>پارەی فوڵ</pre>
-        <pre>سەیارەی جوانی کەم </pre>
+        <pre>هەموو بەشەکان ئیش ئەکات </pre>
+        <pre>هەموو کۆدەکان ئیش ئەکات</pre>
+        <pre>بەشی ترانسفۆرم ئیش ئەکات</pre>
+        <pre> </pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
